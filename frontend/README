@@ -1,0 +1,11 @@
+├── frontend/                 # React + Tailwind frontend app
+│   ├── public/               # Static assets (index.html, favicon)
+│   └── src/
+│       ├── components/       # UI components (Button, Avatar, etc.)
+│       ├── pages/            # Pages like Home, InterviewRoom
+│       ├── api/              # Axios/fetch calls to backend
+│       ├── hooks/            # Custom React hooks
+│       ├── layouts/          # Shared layout components
+│       ├── utils/            # Helper functions (e.g. timing utils)
+│       ├── App.jsx
+│       └── main.jsx
