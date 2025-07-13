@@ -1,6 +1,0 @@
-├── ai-services/              # AI/ML integration modules
-│   ├── prompts/              # Persona prompt templates
-│   ├── whisper/              # Audio-to-text handlers
-│   ├── feedback/             # Speech feedback logic (tone/speed)
-│   ├── gpt_question_gen/     # Resume → Questions generator
-│   └── persona_chat/         # Chat flow for personas
