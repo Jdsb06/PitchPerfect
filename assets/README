@@ -1,0 +1,5 @@
+├── assets/                   # Logos, videos, images
+│   ├── logo.png
+│   ├── demo_videos/
+│   ├── resume_samples/
+│   └── screenshots/
