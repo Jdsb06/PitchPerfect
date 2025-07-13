@@ -1,0 +1,3 @@
+├── scripts/                  # Automation & utilities
+│   ├── deploy.sh
+│   └── cleanup.py
