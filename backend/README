@@ -1,0 +1,9 @@
+├── backend/                  # Node.js (Express) or FastAPI backend
+│   ├── api/
+│   │   ├── routes/           # Route handlers: upload, questions, chat
+│   │   ├── controllers/      # Logic: question gen, persona chat
+│   │   ├── services/         # GPT, Whisper, Firebase integrations
+│   │   └── utils/            # File parsing, formatters
+│   ├── db/                   # Firebase or simple DB config
+│   ├── app.js                # Backend entry point
+│   └── fastapi_service.py    # Whisper/audio feedback via FastAPI
